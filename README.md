@@ -3,6 +3,7 @@ This project uses Rivest-Shamir-Adleman algorithm in cryptography to encrypt and
 More about RSA algorihtm: https://sites.math.washington.edu/~morrow/336_09/papers/Yevgeny.pdf
 
 Screenshots:
+
 ![image](https://github.com/kash-git/CryptoCipher/assets/115657420/80085dfe-099d-47fe-a1b5-843d6af76ee5)
 ![image](https://github.com/kash-git/CryptoCipher/assets/115657420/172fd8d6-2f3f-4864-bf1f-244e8876b5ec)
 
